@@ -6,10 +6,10 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: Talitha koum
+title: "Talitha koum"
 
 # Short bio or description (displayed in the header)
-description: He took her by the hand and said to her, “Talitha koum!”
+description: "He took her by the hand and said to her, “Talitha koum!”"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png

@@ -1,5 +1,4 @@
 
-## Another brick in the wall
 
 Learning digital tools has been like psychological therapy for me. I used to see "technology" as an iron wall that I had to fight against, rather than embrace or take refuge in. But now, I'm saying "hello world" to the digital realm and seeing where it takes me!
     <!--more-->

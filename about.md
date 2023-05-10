@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+"This website has been created as a platform for me to practice and enhance my digital skills in the study of religion. Through this course, I aim to gain valuable knowledge and insights, which I will be sharing with you!"   

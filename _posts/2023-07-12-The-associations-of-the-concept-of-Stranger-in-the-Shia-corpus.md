@@ -1,5 +1,3 @@
-## The associations of the concept of "Stranger" (Gharib) in the Shia corpus
-
 I aim to conduct research on the concept of the stranger **Gharib**in
 Arabic Shia hadith and explore its range of meanings and conceptual
 associations. To achieve this, I have chosen to conduct an initial

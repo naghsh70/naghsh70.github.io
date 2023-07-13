@@ -82,6 +82,7 @@ Moreover, I conducted a simple clustering analysis to explore the
 conceptual relationships among word categories, which yielded
 fascinating results. This analysis was performed using the
 sklearn.cluster library.
+
 ![image2](C:\Users\znagh\OneDrive\Desktop\doc\image2.png)
 
 Finally, I uploaded the data to jsLDA and the Voyant tool for further

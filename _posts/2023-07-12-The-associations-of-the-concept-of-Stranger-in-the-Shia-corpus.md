@@ -89,8 +89,7 @@ Finally, I uploaded the data to jsLDA and the Voyant tool for further
 analysis. The outcomes obtained from all these tools were generally
 consistent and provided valuable insights.
 
-![image3](C:\Users\znagh\OneDrive\Desktop\doc\image3.png "image3")
-
+![image3](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/image3.png?raw=true)
 ### Challenges
 
 Throughout the project, I encountered several challenges, particularly

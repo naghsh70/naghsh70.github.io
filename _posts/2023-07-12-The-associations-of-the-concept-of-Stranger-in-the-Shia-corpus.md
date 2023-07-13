@@ -40,7 +40,7 @@ with conjunctions and repetitive words. Initially, I employed the
 default Arabic stop words list, and then supplemented it with additional
 words manually.
 
-[](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/image6.png?raw=true)
+[[](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/image6.png?raw=true)](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/image6.png?raw=true)
 
 -Subsequently, I was left with a cleaned collection of words from the
 hadiths. However, the dataset still appeared quite extensive. In order

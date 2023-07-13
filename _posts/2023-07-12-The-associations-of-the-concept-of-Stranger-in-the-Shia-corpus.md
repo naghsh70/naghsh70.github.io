@@ -23,7 +23,7 @@ assistance from Stack Overflow and ChatGPT to use Python to perform the
 web scraping, as I was already familiar with it. Through a for loop, I
 successfully obtained data from all 83 pages.
 
-![image1.png](C:\Users\znagh\OneDrive\Desktop\doc/image1.png)
+![image1](naghsh70.github.io/image/image1.png)
 
 ### Cleaning
 

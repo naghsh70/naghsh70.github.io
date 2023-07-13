@@ -51,7 +51,7 @@ encountered several variations of family words related to “Gharib” that
 carried similar connotations. To streamline the analysis, I unified
 these variations.
 
-![](C:\Users\znagh\OneDrive\Desktop\doc\image7.png](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/image7.png?raw=true)
+![](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/image7.png?raw=true)
 
 ### Analysis:
 

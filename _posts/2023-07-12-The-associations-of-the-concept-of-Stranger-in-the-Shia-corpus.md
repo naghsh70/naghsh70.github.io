@@ -23,7 +23,7 @@ assistance from Stack Overflow and ChatGPT to use Python to perform the
 web scraping, as I was already familiar with it. Through a for loop, I
 successfully obtained data from all 83 pages.
 
-![image1](assets/image/image1.png)
+![](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/image1.png?raw=true)
 
 ### Cleaning
 

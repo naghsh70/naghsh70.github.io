@@ -76,7 +76,7 @@ other, indicating shared thematic elements across certain hadiths. I
 employed the networkx, matplotlib.pyplot, and pyvis.network libraries to
 create this visualization.
 
-![image4](C:\Users\znagh\OneDrive\Desktop\doc\image4.png)
+![image4](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/image4.png?raw=true)
 
 Moreover, I conducted a simple clustering analysis to explore the
 conceptual relationships among word categories, which yielded

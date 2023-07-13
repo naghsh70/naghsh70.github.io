@@ -64,7 +64,7 @@ Firstly, I utilized the counter library to determine the frequency of
 each word. This allowed me to generate a bar chart displaying the word
 frequencies.
 
-![Image5](C:\Users\znagh\OneDrive\Desktop\doc\image5.png)
+![Image5](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/image5.png?raw=true)
 
 To gain a clearer understanding of the relationships between words,
 particularly those associated with “Gharib,” I employed a form of

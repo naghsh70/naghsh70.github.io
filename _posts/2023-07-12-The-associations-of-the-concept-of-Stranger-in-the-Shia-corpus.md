@@ -23,7 +23,7 @@ assistance from Stack Overflow and ChatGPT to use Python to perform the
 web scraping, as I was already familiar with it. Through a for loop, I
 successfully obtained data from all 83 pages.
 
-![image1](naghsh70.github.io/image/image1.png)
+![image1](assets/image/image1.png)
 
 ### Cleaning
 
@@ -31,7 +31,7 @@ After scraping the data, I found myself faced with a considerable amount
 of unclean data, consisting of numbers, URLs, English words, and Persian
 words interspersed within the text. Analyzing this data in its current
 state was impossible, so I established a set of rules to clean it up.
--Firstly, I prioritized text normalization. To achieve this, I utilized
+-First, I prioritized text normalization. To achieve this, I utilized
 the pyArabic library to standardize the Arabic letters and remove the
 vowels. -Next, I encountered numerous unrelated words and items at the
 beginning and end of each hadith, which needed to be eliminated. I

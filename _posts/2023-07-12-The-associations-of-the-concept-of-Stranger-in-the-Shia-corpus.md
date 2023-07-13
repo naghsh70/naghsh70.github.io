@@ -37,10 +37,10 @@ vowels. -Next, I encountered numerous unrelated words and items at the
 beginning and end of each hadith, which needed to be eliminated. I
 performed this removal process accordingly. -The text was also burdened
 with conjunctions and repetitive words. Initially, I employed the
-default Arabic stop words list, and then supplemented it with additional
-words manually.
+default Arabic stop words list and then manually supplemented it with additional
+words.
 
-[[](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/image6.png?raw=true)](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/image6.png?raw=true)
+![](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/image6.png?raw=true)
 
 -Subsequently, I was left with a cleaned collection of words from the
 hadiths. However, the dataset still appeared quite extensive. In order

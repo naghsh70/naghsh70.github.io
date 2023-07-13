@@ -1,3 +1,5 @@
+
+
 I aim to conduct research on the concept of the stranger **Gharib**in
 Arabic Shia hadith and explore its range of meanings and conceptual
 associations. To achieve this, I have chosen to conduct an initial
@@ -21,7 +23,7 @@ assistance from Stack Overflow and ChatGPT to use Python to perform the
 web scraping, as I was already familiar with it. Through a for loop, I
 successfully obtained data from all 83 pages.
 
-![image1](C:\Users\znagh\OneDrive\Desktop\doc/image1.png)
+![image1.png](C:\Users\znagh\OneDrive\Desktop\doc/image1.png)
 
 ### Cleaning
 
@@ -86,7 +88,7 @@ Finally, I uploaded the data to jsLDA and the Voyant tool for further
 analysis. The outcomes obtained from all these tools were generally
 consistent and provided valuable insights.
 
-![image39](C:\Users\znagh\OneDrive\Desktop\doc\image3.png)
+![image3](C:\Users\znagh\OneDrive\Desktop\doc\image3.png "image3")
 
 ### Challenges
 

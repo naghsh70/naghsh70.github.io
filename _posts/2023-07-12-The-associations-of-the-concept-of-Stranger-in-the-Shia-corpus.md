@@ -83,7 +83,7 @@ conceptual relationships among word categories, which yielded
 fascinating results. This analysis was performed using the
 sklearn.cluster library.
 
-![image2](C:\Users\znagh\OneDrive\Desktop\doc\image2.png)
+![image2](https://github.com/naghsh70/naghsh70.github.io/blob/main/assets/image2.png?raw=true)
 
 Finally, I uploaded the data to jsLDA and the Voyant tool for further
 analysis. The outcomes obtained from all these tools were generally
